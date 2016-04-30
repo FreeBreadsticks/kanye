@@ -4,8 +4,9 @@ gem 'rails_12factor', group: :production
 
 # include simpleform
 gem 'simple_form'
+gem 'devise'
 
-# include bootstrap 
+# include bootstrap
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
 
